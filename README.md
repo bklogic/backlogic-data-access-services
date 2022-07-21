@@ -45,13 +45,13 @@ Install Service Builder and get your first hands-on experience with data access 
 
 This site.  The `Issues` tab.
 
-#### Email
-
-ken@backlogic.net
-
 #### Questions and Discussions
 
 This site. The `Discussions` tab.
+
+#### Email
+
+ken@backlogic.net
 
 ## Road Map
 

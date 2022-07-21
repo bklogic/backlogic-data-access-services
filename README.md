@@ -37,19 +37,19 @@ Install Service Builder and get your first hands-on experience with data access 
 
 ## Support
 
-### Documentation
+#### Documentation
 
 [Here](https://github.com/bklogic/backlogic-data-access-services/wiki)
 
-### Issues and Feature Request
+#### Issues and Feature Request
 
 This site.  The `Issues` tab.
 
-### Email
+#### Email
 
 ken@backlogic.net
 
-## Discussions
+#### Questions and Discussions
 
 This site. The `Discussions` tab.
 
